@@ -1,3 +1,3 @@
-[submodule "music-service_server"]
-	path = music-service_server
+[submodule "server"]
+	path = server
 	url = https://github.com/andropovv/music-service_server
